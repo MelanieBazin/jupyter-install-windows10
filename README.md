@@ -111,6 +111,6 @@ Un nouvel onglet va s'ouvrir dans votre navigateur web.
 
 ## Arrêter / quitter Jupyter (notebook ou lab)
 
-Revenez dans l'invite de commande Miniconda et appuyez deux fois sur la combinaison de touches `Ctrl + C`
+Revenez dans l'invite de commande Miniconda et pressez deux fois sur la combinaison de touches `Ctrl + C`
 
 ![](img/jupyter03.png)
